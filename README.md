@@ -26,15 +26,12 @@ This project was developed as a capstone assignment for a Software Development E
 ---
 ## Screenshots
 
-Add screenshots to visually demonstrate the application (recommended for portfolios).
-### Log in
-![Log in](docs/login.png)
-### Course Search
-![Course Search](docs/course-search.png)
-### Course Reviews
-![Course Reviews](docs/course-review.png)
-### My Reviews
-![My Reviews](docs/my-reviews.png)
+<p align="center">
+  <img src="docs/login.png" width="220">
+  <img src="docs/course-search.png" width="220">
+  <img src="docs/course-reviews.png" width="220">
+  <img src="docs/my-reviews.png" width="220">
+</p>
 
 
 ## Authors
@@ -80,5 +77,6 @@ List the primary contributions of each author. It is recommended to update this 
 ## Issues
 
 None at the time of submission
+
 
 
