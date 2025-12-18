@@ -1,4 +1,35 @@
-# Homework 6 - Course Review Application
+# Course Review Application
+
+A JavaFX-based CRUD desktop application that allows users to create accounts, search for university courses, and submit anonymous course reviews. The application follows an MVC-style architecture and uses JDBC with a SQLite database for persistent storage. Users can add courses, write and edit reviews, view aggregated course ratings, and manage their own reviews through a clean, multi-scene GUI.
+
+This project was developed as a capstone assignment for a Software Development Essentials course and is provided here as a public source-code mirror for portfolio and code review purposes.
+
+## Tech Stack
+
+- Language: Java (JDK 21)
+- GUI Framework: JavaFX 21
+- Build Tool: Gradle
+- Database: SQLite
+- Database Access: JDBC
+- Architecture: MVC (Model–View–Controller)
+
+## Features
+
+- User authentication with input validation  
+- Course creation with duplicate prevention  
+- Flexible course search by subject, number, or title  
+- Anonymous course reviews with ratings (1–5) and optional comments  
+- Aggregated average ratings per course  
+- Review editing and deletion with timestamped updates  
+- Persistent storage across application sessions  
+
+---
+## Screenshots
+
+Add screenshots to visually demonstrate the application (recommended for portfolios).
+### Course Search
+![Course Search](docs/course-search.png)
+
 
 ## Authors
 1) Matthew Batmunkh, abf9yu, [Mbatmu6084]
@@ -41,3 +72,4 @@ List the primary contributions of each author. It is recommended to update this 
 ## Issues
 
 List any known issues (bugs, incorrect behavior, etc.) at the time of submission.
+
