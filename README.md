@@ -27,8 +27,14 @@ This project was developed as a capstone assignment for a Software Development E
 ## Screenshots
 
 Add screenshots to visually demonstrate the application (recommended for portfolios).
+### Log in
+![Log in](docs/login.png)
 ### Course Search
 ![Course Search](docs/course-search.png)
+### Course Reviews
+![Course Reviews](docs/course-review.png)
+### My Reviews
+![My Reviews](docs/my-reviews.png)
 
 
 ## Authors
@@ -41,6 +47,8 @@ Add screenshots to visually demonstrate the application (recommended for portfol
 
 This application is a JavaFX GUI application built using JavaFX 21.0.9 and JDK 21.0.9.
 Run with Gradle: ./gradlew run
+
+Note: The SQLite database file is not included in this repository. The database is automatically created at runtime if it does not exist.
 
 
 
@@ -71,5 +79,6 @@ List the primary contributions of each author. It is recommended to update this 
 * Tested and verified all add course validation, duplicate prevention logic, search functionality, course display with ratings, and navigation buttons 
 ## Issues
 
-List any known issues (bugs, incorrect behavior, etc.) at the time of submission.
+None at the time of submission
+
 
