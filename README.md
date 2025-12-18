@@ -27,10 +27,12 @@ This project was developed as a capstone assignment for a Software Development E
 ## Screenshots
 
 <p align="center">
-  <img src="docs/login.png" width="220">
-  <img src="docs/course-search.png" width="220">
-  <img src="docs/course-reviews.png" width="220">
-  <img src="docs/my-reviews.png" width="220">
+  <img src="docs/login.png" width="500">
+  <img src="docs/course-search.png" width="500">
+</p>
+<p align="center">
+  <img src="docs/course-review.png" width="500">
+  <img src="docs/my-reviews.png" width="500">
 </p>
 
 
@@ -77,6 +79,7 @@ List the primary contributions of each author. It is recommended to update this 
 ## Issues
 
 None at the time of submission
+
 
 
 
